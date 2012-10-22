@@ -1,5 +1,9 @@
 # The GWT Tools project
 
+## Summary
+
+GWT Tools provides an Eclipse Web Tools Facet for Google Web Toolkit.
+
 ## Install
 
 _GWT Tools_ is part of [JBoss Tools](http://jboss.org/tools) from
